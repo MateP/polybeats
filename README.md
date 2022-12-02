@@ -1,2 +1,2 @@
 # polybeats
-Applet for playing polyrhythm beats and speeding them up to get chords
+Demonstration of how polyrythms turn into harmonies when sped up 
